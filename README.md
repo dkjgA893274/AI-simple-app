@@ -8,11 +8,5 @@ LangChain と Streamlit で作るシンプルなチャットボット
     - Google Colab から実行・デプロイ手順を解説
 
 ## すぐ試す
-[Open in Colab](https://colab.research.google.com/github/<your-name>/AI-simple-app/blob/main/section_1/chatbot.ipynb)
+[1_Chat bot-Open in Colab](https://colab.research.google.com/github/dkjgA893274/AI-simple-app/blob/main/section_1/chatbot.ipynb)
 
-## セットアップ（ローカル）
-```bash
-python -m venv .venv && source .venv/bin/activate
-pip install -U streamlit langchain langchain-openai python-dotenv
-export OPENAI_API_KEY=sk-xxxx
-streamlit run app.py
