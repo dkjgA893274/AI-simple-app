@@ -1,6 +1,6 @@
 # AI-simple-app
 
-LangChain と Streamlit で作るシンプルなチャットボット
+LangChain と Streamlit で作るシンプルなアプリ
 
 ## 概要
 1. chatbot.ipynb
