@@ -17,7 +17,7 @@ LangChain と Streamlit で作るシンプルなアプリ
 ## すぐ試す
 [1_Chat bot-Open in Colab](https://colab.research.google.com/github/dkjgA893274/AI-simple-app/blob/main/section_1/chatbot.ipynb)
 
-[2_Translation App-Open in Colab](https://colab.research.google.com/github/dkjgA893274/AI-simple-app/blob/main/section_1/chatbot.ipynb)
+[2_Translation App-Open in Colab](https://colab.research.google.com/github/dkjgA893274/AI-simple-app/blob/main/section_2/translation.ipynb))
 
 ## 翻訳アプリの機能
 - **多言語翻訳**: 8言語間での相互翻訳
